@@ -1,5 +1,7 @@
 # Mergers and Acquisitions
 
+> 6 月 16 日考试
+
 ## Lecture 1 Introduction: M&A
 
 第一章介绍了 M&A 的概念，分成两个部分：
@@ -131,8 +133,6 @@ M&A 是否会创造价值，以及如何创造价值的，是一个很大的问�
 #### 5.2.4 Benchmark the Comparable Companies
 
 #### 5.2.5 Determine Valuation
-
-
 
 
 
