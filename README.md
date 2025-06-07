@@ -8,6 +8,7 @@ Mergers-and-Acquisitions
     ├── group_case # The group case, which need to write the report.
     ├── individual_assignment1 # The individual assignment 1.
 ├── Project/ # The final project. 
+    ├── Fin535_FinalProject_Guide.pdf # Final project guideline.
     ├── README.md # The project framework introduction.
     ├── Group 1-MA-FPP.pdf # Proposal.
 └── Notes/ # The notes and cheatsheet for this class.

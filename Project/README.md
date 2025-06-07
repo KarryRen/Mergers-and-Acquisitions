@@ -1,44 +1,43 @@
 # Final Team Project (Pre & Paper)
 
+本文档是对 Final Team Project 的大纲性文档，组内将核心思考都放在了本文档中！
+
 ## Requirements
 
-### 3 Topics (:warning: All are proposal or plan not case !)
+**Topic 2: Technological and Political Shock-Driven Acquisitions**（科技潮导致的并购：提出一个并购 Plan）
 
-**Topic 1: Cross-Border Acquisitions** (跨国并购：提出一个跨国并购的 Proposal)
-
-- The objective of this project is to understand cross-border acquisition process by identifying an oversea target and analyzing it.
-- Your group will **prepare a proposal on cross-border investment** and present your valuation results and investment plan to the class.
-- An outline of the topics your project should cover will be provided.
-
-**Topic 2: Technological and Political Shock-Driven Acquisitions** (科技潮导致的并购：提出一个投资 Plan)
-
-- Economic, regulatory and technological shocks drive industry merger waves. (Harford 2005).
+- Economic, regulatory and technological shocks drive industry merger waves.
 - Particularly, many recent acquisitions are driven by synergies from innovation capability or in response to a new government policy.
-- The objective of this project is to investigate recent changes in technological trends or government policies and build an **investment plan**. (比如 AI 和新能源)
-- An outline of the topics your project should cover will be provided.
+- The objective of this project is to investigate recent changes in technological trends or government policies and build an **investment plan**.
 
-**Topic 3: Study of Distressed Target Acquisitions** (破产导致的并购：提出一个相关的 Proposal)
-
-- The objective of this project is to investigate a M&A transaction that includes financially or economically distressed target.
-- Firms that face a severe liquidity constraint may be forced to sell some or all of their assets to avoid bankruptcy. Thus, distressed acquisitions play an important role as a restructuring mechanism.
-- Your group will **prepare a proposal on distressed target acquisition** and present your valuation results and investment plan to the class.
-- An outline of the topics your project should cover will be provided.
+**选题分析**：老师给出了三个方向的选题，都是在大主题下的计划构思，此处我们选择了第二大主题，提出了一个 AI 科技浪潮可能导致的并购计划，即 AI 科技公司 Palantir 提出并购数据存储公司 Pure Storage。题目为：**AI-Storage Convergence: Palantir’s Strategic Proposal to Acquire Pure Storage and Redefine Enterprise Data Intelligence**
 
 
 
 ## Project Paper Outline
 
-A suggested outline of the topics your paper should cover is presented below.
+确定了选题后，进入深入的并购提议分析，讲一个合理、正确且精彩的并购案例，且时刻突出主题。
 
-Project 核心是讲一个有趣的故事，在选定并购计划方向后后，我们自然就会产生如下疑问：
+根据老师放出的参考大纲，我们应该搭建如下故事：
 
-- **为什么**要提出这个并购建议（行业和宏观等外界因素，收购方公司自身的安排）
-- 并购的执行计划**是什么**（有了初步的并购意愿后，开始深入计划层面，如何选取目标公司、解决什么问题、后续操作的方案）
-- 并购的具体执行方案**是什么**（有了执行计划，开始考虑并购过程中的各个细节）
-- :star: 花**多少钱**执行并购（最关键的一步，对目标公司进行定价，给出合理的估值区域）
-- 并购带来**什么影响**（完成并购后，对可能带来的影响进行进一步分析）
+- 首先，出发点在于 Why acquirer needs this M&A ?
+  - 介绍 Palantir 这家公司，发现公司近年来趁 AI 之风有了新一轮的发展
+  - 数据存储目前可能还依赖于第三方，短期内发展难度较大
+  - 目前的股价处于高位，实力强劲，是很好的继续扩展的机会
+- 其次，具体的收购计划是什么？
+  - 为什么非要选择 Pure Storage 而不是其他公司？
+  - 收购计划和目标
+- 再次，这笔交易的具体结构和处理方式
+  - 如何处理目标公司的股东、管理层？
+  - 给到多少的溢价，支付方法、定价方式等细节
+- 然后，最关键的，如何进行定价
+  - 从技术上采用三种方式
+  - 关键还要看 synergy 的来源
+- 最后，进行结果分析
 
-### Part 1. Industry and Macroeconomic Characteristics
+
+
+**Part 1. Industry and Macroeconomic Characteristics**
 
 Industry-level regulatory or economic shock
 
@@ -87,3 +86,12 @@ Balance Sheet Effects (Sources and Uses of funds, Good will, EPS Accretion)
 Plan for Layoffs, Divestitures, changes in seller’s management
 
 Post-merger performance
+
+
+
+## Information Collection
+
+**What is Palantir ?**
+
+- [Official Website](https://www.palantir.com)
+- 整体来看 Palantir 是一家老牌科技公司，近年来依托起 AIP 业务有了新一轮的蓬勃发展，Palantir AIP 通过“安全可控的AI决策中枢”定位，解决了企业级 AI 落地的三大痛点：数据孤岛、合规风险与决策透明度。其技术架构的独特性、垂直行业的深度渗透及商业模式创新，使其成为 AI 应用赛道的标杆。未来，随着工业自动化与国防 AI 的拓展，AIP 有望推动 Palantir 市值突破 2000 亿美元。
